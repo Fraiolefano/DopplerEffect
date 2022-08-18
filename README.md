@@ -1,3 +1,3 @@
-# DopplerEffect by Fraiolefano
+# Doppler effect by Fraiolefano
 
-https://fraiolefano.altervista.org/pages/coding/programs/doppler/index.php
+Web version: https://fraiolefano.altervista.org/pages/coding/programs/doppler/index.php
